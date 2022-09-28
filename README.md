@@ -14,6 +14,26 @@ The assets in this mod are licensed under [**CC-BY-SA 4.0**](https://creativecom
 To comply with the [**CC-BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) license of the assets the following adjustments were made:
 - While porting Slayer5934's repository to 1.16.5 the `chocobo_stats.png` asset got slightly adjusted (A section got moved by a few pixels) otherwise it's identical.
 
+## TODO
+
+- [ ] Nerf Chocobo's speed and fly time
+- [ ] Nerf Chocobo's jump height
+- [ ] Nerf Chocobo's health
+- [ ] Add HUD indicator for Choboco's flying power
+- [ ] Add Chocobo's child color probability system
+  - [ ] Green chicobo probability 70%, 30% yellow - requires 2 yellow parents
+  - [ ] Blue chicobo probability 70%, 30% green - requires 2 green parents
+  - [ ] White chicobo probability 50%, 30% blue - requires 1 blue parent and 1 green parent
+  - [ ] Black chicobo probability 50%, 30% white - requires 1 white parent and 1 blue parent
+- [ ] Add Chocobo's ability system
+  - [ ] Add Chocobo's ability to fly
+  - [ ] Add Chocobo's ability to swim
+  - [ ] Add Chocobo's ability to jump
+  - [ ] Add Chocobo's ability to sprint
+  - [ ] Add Chocobo's ability to dive
+  - [ ] Add Chocobo's ability to get extra health
+  - [ ] Add Chocobo's ability to get extra speed
+
 # Setting up a development workspace
 1. Ensure that `Java` (found [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)), `Git` (found [here](http://git-scm.com/)) are installed correctly on your system.
 - Clone this repository into a new folder using your IDE, a git gui or the git command line.

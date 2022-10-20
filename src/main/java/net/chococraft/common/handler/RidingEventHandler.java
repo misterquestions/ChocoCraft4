@@ -1,7 +1,7 @@
 package net.chococraft.common.handler;
 
 import net.chococraft.Chococraft;
-import net.chococraft.common.entities.Chocobo;
+import net.chococraft.entity.Chocobo;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.player.Player;
 import net.minecraftforge.event.entity.EntityMountEvent;

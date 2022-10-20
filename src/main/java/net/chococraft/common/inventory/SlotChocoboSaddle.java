@@ -1,6 +1,6 @@
 package net.chococraft.common.inventory;
 
-import net.chococraft.common.items.ChocoboSaddleItem;
+import net.chococraft.item.ChocoboSaddleItem;
 import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.items.IItemHandler;
 import net.minecraftforge.items.SlotItemHandler;

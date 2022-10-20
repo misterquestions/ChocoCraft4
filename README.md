@@ -33,6 +33,7 @@ To comply with the [**CC-BY-SA 4.0**](https://creativecommons.org/licenses/by-sa
   - [ ] Add Chocobo's ability to dive
   - [ ] Add Chocobo's ability to get extra health
   - [ ] Add Chocobo's ability to get extra speed
+  - [ ] Add Chocobo's ability to get fire resistance
 
 # Setting up a development workspace
 1. Ensure that `Java` (found [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)), `Git` (found [here](http://git-scm.com/)) are installed correctly on your system.

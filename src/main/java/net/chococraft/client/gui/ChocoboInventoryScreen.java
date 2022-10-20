@@ -3,7 +3,7 @@ package net.chococraft.client.gui;
 import com.mojang.blaze3d.systems.RenderSystem;
 import com.mojang.blaze3d.vertex.PoseStack;
 import net.chococraft.Chococraft;
-import net.chococraft.common.entities.Chocobo;
+import net.chococraft.entity.Chocobo;
 import net.chococraft.common.init.ModRegistry;
 import net.chococraft.common.inventory.SaddleBagMenu;
 import net.minecraft.client.Minecraft;

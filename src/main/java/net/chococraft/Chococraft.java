@@ -1,15 +1,15 @@
 package net.chococraft;
 
 import net.chococraft.client.ClientHandler;
-import net.chococraft.common.config.BreedingConfig;
-import net.chococraft.common.config.BreedingConfigReloadManager;
-import net.chococraft.common.config.ChocoConfig;
-import net.chococraft.common.entities.properties.ModDataSerializers;
+import net.chococraft.config.BreedingConfig;
+import net.chococraft.config.BreedingConfigReloadManager;
+import net.chococraft.config.ChocoConfig;
+import net.chococraft.entity.properties.ModDataSerializers;
 import net.chococraft.common.init.ModEntities;
 import net.chococraft.common.init.ModRegistry;
 import net.chococraft.common.init.ModSounds;
-import net.chococraft.common.network.PacketManager;
-import net.chococraft.common.world.worldgen.ModWorldgen;
+import net.chococraft.network.PacketManager;
+import net.chococraft.world.ModWorldgen;
 import net.chococraft.utils.Log4jFilter;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;

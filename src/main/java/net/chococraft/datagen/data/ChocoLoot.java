@@ -2,7 +2,7 @@ package net.chococraft.datagen.data;
 
 import com.google.common.collect.ImmutableList;
 import com.mojang.datafixers.util.Pair;
-import net.chococraft.common.blocks.GysahlGreenBlock;
+import net.chococraft.block.GysahlGreenBlock;
 import net.chococraft.common.init.ModEntities;
 import net.chococraft.common.init.ModRegistry;
 import net.minecraft.advancements.critereon.StatePropertiesPredicate;

@@ -1,14 +1,14 @@
 package net.chococraft.common.init;
 
 import net.chococraft.Chococraft;
-import net.chococraft.common.blocks.GysahlGreenBlock;
-import net.chococraft.common.blocks.StrawBlock;
-import net.chococraft.common.entities.properties.ChocoboColor;
-import net.chococraft.common.items.ChocoDisguiseItem;
-import net.chococraft.common.items.ChocoboSaddleItem;
-import net.chococraft.common.items.ChocoboSpawnEggItem;
-import net.chococraft.common.items.ChocopediaItem;
-import net.chococraft.common.items.CustomBlockNamedItem;
+import net.chococraft.block.GysahlGreenBlock;
+import net.chococraft.block.StrawBlock;
+import net.chococraft.entity.properties.ChocoboColor;
+import net.chococraft.item.ChocoDisguiseItem;
+import net.chococraft.item.ChocoboSaddleItem;
+import net.chococraft.item.ChocoboSpawnEggItem;
+import net.chococraft.item.ChocopediaItem;
+import net.chococraft.item.CustomBlockNamedItem;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;

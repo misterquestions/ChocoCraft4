@@ -1,8 +1,8 @@
 package net.chococraft.client;
 
 import net.chococraft.Chococraft;
-import net.chococraft.common.network.PacketManager;
-import net.chococraft.common.network.packets.ChocoboSprintingMessage;
+import net.chococraft.network.PacketManager;
+import net.chococraft.network.packets.ChocoboSprintingMessage;
 import net.minecraft.client.KeyMapping;
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.api.distmarker.Dist;

@@ -2,7 +2,7 @@ package net.chococraft.client.models.entities;
 
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.blaze3d.vertex.VertexConsumer;
-import net.chococraft.common.entities.Chocobo;
+import net.chococraft.entity.Chocobo;
 import net.minecraft.client.model.EntityModel;
 import net.minecraft.client.model.geom.ModelPart;
 import net.minecraft.client.model.geom.PartPose;

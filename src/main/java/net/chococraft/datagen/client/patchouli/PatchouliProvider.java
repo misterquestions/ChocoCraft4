@@ -1,7 +1,7 @@
 package net.chococraft.datagen.client.patchouli;
 
 import net.chococraft.Chococraft;
-import net.chococraft.common.entities.properties.ChocoboColor;
+import net.chococraft.entity.properties.ChocoboColor;
 import net.chococraft.common.init.ModEntities;
 import net.chococraft.common.init.ModRegistry;
 import net.minecraft.data.DataGenerator;

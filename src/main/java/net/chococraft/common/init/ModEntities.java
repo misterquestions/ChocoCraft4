@@ -1,8 +1,8 @@
 package net.chococraft.common.init;
 
 import net.chococraft.Chococraft;
-import net.chococraft.common.config.ChocoConfig;
-import net.chococraft.common.entities.Chocobo;
+import net.chococraft.config.ChocoConfig;
+import net.chococraft.entity.Chocobo;
 import net.minecraft.core.Registry;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.world.entity.Entity;
